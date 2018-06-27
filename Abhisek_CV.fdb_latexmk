@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1526168789 "/run/media/abhisek_ch/Local Disk/ubuntu_stuff/Documents/my_resume/Abhisek_CV.tex" "Abhisek_CV.pdf" "Abhisek_CV" 1526168790
-  "/run/media/abhisek_ch/Local Disk/ubuntu_stuff/Documents/my_resume/Abhisek_CV.tex" 1526168789 8059 776795efbc908921e7481e82349c6ee4 ""
+["pdflatex"] 1530119127 "/home/abhisek_ch/Desktop/Resume/Abhisek_CV.tex" "Abhisek_CV.pdf" "Abhisek_CV" 1530119262
+  "/home/abhisek_ch/Desktop/Resume/Abhisek_CV.tex" 1530119127 8062 2b15cd2a97c5008187188c66c2204cf5 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1520157216 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1520157226 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1520157226 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -49,11 +49,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1520157258 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1526162907 2565685 1f907097ec2b6d0e87a435aad9a0b283 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1526162878 7738161 9a522f53225646980e1b2052149b32a4 ""
-  "Abhisek_CV.aux" 1526168010 8 a94a2480d3289e625eea47cd1b285758 ""
-  "Abhisek_CV.tex" 1526168789 8059 776795efbc908921e7481e82349c6ee4 ""
-  "enumitem.sty" 1452862387 42666 6fa770e3485520a6a5f2ea7d259c8f8d ""
-  "res.cls" 1452862387 25071 5219690551826615ce16067e080612e1 ""
-  "wrapfig.sty" 1452862387 22770 857b1de298f5c55d44d6211a540b3853 ""
+  "Abhisek_CV.aux" 1530118658 8 a94a2480d3289e625eea47cd1b285758 ""
+  "Abhisek_CV.tex" 1530119127 8062 2b15cd2a97c5008187188c66c2204cf5 ""
+  "enumitem.sty" 1530118658 42666 6fa770e3485520a6a5f2ea7d259c8f8d ""
+  "res.cls" 1530118658 25071 5219690551826615ce16067e080612e1 ""
+  "wrapfig.sty" 1530118658 22770 857b1de298f5c55d44d6211a540b3853 ""
   (generated)
   "Abhisek_CV.log"
   "Abhisek_CV.pdf"

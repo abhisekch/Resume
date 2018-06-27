@@ -1,7 +1,7 @@
-PWD /run/media/abhisek_ch/Local Disk/ubuntu_stuff/Documents/my_resume
+PWD /home/abhisek_ch/Desktop/Resume
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /run/media/abhisek_ch/Local Disk/ubuntu_stuff/Documents/my_resume/Abhisek_CV.tex
+INPUT /home/abhisek_ch/Desktop/Resume/Abhisek_CV.tex
 OUTPUT Abhisek_CV.log
 INPUT res.cls
 INPUT res.cls
